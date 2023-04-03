@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="horizontal_margin">20dp</dimen>
+    <dimen name="Category_textview">20sp</dimen>
+    <dimen name="Expenses">16sp</dimen>
+    <dimen name="Back_Textview">22sp</dimen>
+    <dimen name="Auth">34sp</dimen>
+</resources>
